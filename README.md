@@ -1,16 +1,17 @@
-# ibanshareapp
+# IBANshare
 
-IBANshare store and share bank iban numbers.
+# Keep and share bank IBANs.
+IBANshare is for everyone who ensures that IBANs in multiple banks are stored in one app securely.
 
-## Getting Started
+# Easy to use
+Easily add, update, delete, and even bookmark your IBANs.
 
-This project is a starting point for a Flutter application.
+# Share with friends
+IBAN maybe shared with friends right away.
 
-A few resources to get you started if this is your first Flutter project:
+# Validate IBAN numbers
+Check for validation of IBAN numbers immediately.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download available at:
+AppStore: https://apps.apple.com/tr/app/ibanshare/id1520706406?l=tr
+Play Store: https://play.google.com/store/apps/details?id=com.ibanshare.ibanshareapp
